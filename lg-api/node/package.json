@@ -4,7 +4,7 @@
   "main": "app.js",
   "dependencies": {
     "async": "2.0.0-rc.3",
-    "express": "~4.1.1",
+    "express": "~4.17.1",
     "body-parser": "~1.0.1",
     "amqp": "*",
     "node-uuid": "*",
